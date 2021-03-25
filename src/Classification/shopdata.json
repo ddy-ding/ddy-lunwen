@@ -1,0 +1,262 @@
+{
+  "data": [{
+      "firstCateName": "旗袍丝蕴",
+      "firstCateId": "101",
+      "secondCateItems": [{
+        "secondCateName": "旗袍New",
+        "secondCateId": "1001",
+        "items": [{
+            "itemImg": "http://goodlist.oss-cn-beijing.aliyuncs.com/p1.jpg",
+            "title": "真丝绒系列",
+            "itemId": "2001",
+            "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/01/1.webp.jpg",
+            "name":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+            "price":"150",
+            "detailimg":[
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/1.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/2.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/3.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/4.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/5.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/6.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/7.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/8.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/9.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/10.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/11.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/12.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/13.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/14.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/15.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/16.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/17.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/18.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/19.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/20.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/21.webp.jpg"
+            ]
+          },
+          {
+            "itemImg": "http://goodlist.oss-cn-beijing.aliyuncs.com/p11.jpg",
+            "title": "时尚方巾",
+            "itemId": "2001",
+            "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/02/1.webp.jpg",
+            "name":"aaaaaaaaaaaaaaaaaaaaaa",
+            "price":"250",
+            "detailimg":[
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/1.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/2.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/3.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/4.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/5.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/6.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/7.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/8.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/9.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/10.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/11.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/12.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/13.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/14.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/15.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/16.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/17.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/18.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/19.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/20.webp.jpg",
+              "http://detailimages.oss-cn-beijing.aliyuncs.com/01/21.webp.jpg"
+            ]
+          },
+          {
+            "itemImg": "http://goodlist.oss-cn-beijing.aliyuncs.com/p5.jpg",
+            "title": "真丝长巾",
+            "itemId": "2001",
+            "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+            "name":"aaaaaaaaaaaaaaaaaaaaaa",
+            "price":"350"
+          },
+          {
+            "itemImg": "http://goodlist.oss-cn-beijing.aliyuncs.com/p13.jpg",
+            "title": "时尚披肩",
+            "itemId": "2001",
+            "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+            "name":"aaaaaaaaaaaaaaaaaaaaaa",
+            "price":"550"
+          },
+          {
+            "itemImg": "http://goodlist.oss-cn-beijing.aliyuncs.com/p2.jpg",
+            "title": "真丝刺绣系列",
+            "itemId": "2001",
+            "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+            "name":"aaaaaaaaaaaaaaaaaaaaaa",
+            "price":"150"
+          },
+          {
+            "itemImg": "http://goodlist.oss-cn-beijing.aliyuncs.com/p12.jpg",
+            "title": "羊毛系列",
+            "itemId": "2001",
+            "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+            "name":"aaaaaaaaaaaaaaaaaaaaaa",
+            "price":"150"
+          }
+        ]
+      }]
+    },
+    {
+      "firstCateName": "丝巾情缘",
+      "firstCateId": "102",
+      "secondCateItems": [{
+        "secondCateName": "丝巾New",
+        "secondCateId": "1002",
+        "items": [{
+          "itemImg": "http://shougongcixiu.oss-cn-beijing.aliyuncs.com/goodlist/g3.jpg",
+          "title": "真丝绒系列",
+          "itemId": "2002"
+        },
+        {
+          "itemImg": "http://shougongcixiu.oss-cn-beijing.aliyuncs.com/goodlist/g4.jpg",
+          "title": "时尚方巾",
+          "itemId": "2002"
+        },
+        {
+          "itemImg": "http://shougongcixiu.oss-cn-beijing.aliyuncs.com/goodlist/g7.jpg",
+          "title": "真丝长巾",
+          "itemId": "2002"
+        },
+        {
+          "itemImg": "http://shougongcixiu.oss-cn-beijing.aliyuncs.com/goodlist/g8.jpg",
+          "title": "时尚披肩",
+          "itemId": "2002"
+        },
+        {
+          "itemImg": "http://shougongcixiu.oss-cn-beijing.aliyuncs.com/goodlist/g9.jpg",
+          "title": "真丝刺绣系列",
+          "itemId": "2002"
+        },
+        {
+          "itemImg": "http://shougongcixiu.oss-cn-beijing.aliyuncs.com/goodlist/x1.jpg",
+          "title": "羊毛系列",
+          "itemId": "2002"
+        }
+      ]
+      }]
+    },
+    {
+      "firstCateName": "手工刺绣",
+      "firstCateId": "0000001",
+      "secondCateItems": [{
+        "secondCateName": "刺绣New",
+        "secondCateId": "1000001",
+        "items": [{
+          "itemImg": "http://sijinimg.oss-cn-beijing.aliyuncs.com/goodlist/z10.jpg",
+          "title": "真丝绒系列",
+          "itemId": "2000001"
+        },
+        {
+          "itemImg": "http://sijinimg.oss-cn-beijing.aliyuncs.com/goodlist/z11.jpg",
+          "title": "时尚方巾",
+          "itemId": "2000001"
+        },
+        {
+          "itemImg": "http://sijinimg.oss-cn-beijing.aliyuncs.com/goodlist/z4.jpg",
+          "title": "真丝长巾",
+          "itemId": "2000001"
+        },
+        {
+          "itemImg": "http://sijinimg.oss-cn-beijing.aliyuncs.com/goodlist/z5.jpg",
+          "title": "时尚披肩",
+          "itemId": "2000001"
+        },
+        {
+          "itemImg": "http://sijinimg.oss-cn-beijing.aliyuncs.com/goodlist/z6.jpg",
+          "title": "真丝刺绣系列",
+          "itemId": "2000001"
+        },
+        {
+          "itemImg": "http://sijinimg.oss-cn-beijing.aliyuncs.com/goodlist/z8.jpg",
+          "title": "羊毛系列",
+          "itemId": "2000001"
+        }
+      ]
+      }]
+    },
+    {
+      "firstCateName": "送礼臻品",
+      "firstCateId": "0000001",
+      "secondCateItems": [{
+        "secondCateName": "丝巾",
+        "secondCateId": "1000001",
+        "items": [{
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_1.png",
+          "title": "真丝绒系列",
+          "itemId": "2000001"
+        },
+        {
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_2.png",
+          "title": "时尚方巾",
+          "itemId": "2000001"
+        },
+        {
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_3.png",
+          "title": "真丝长巾",
+          "itemId": "2000001"
+        },
+        {
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_4.png",
+          "title": "时尚披肩",
+          "itemId": "2000001"
+        },
+        {
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_5.png",
+          "title": "真丝刺绣系列",
+          "itemId": "2000001"
+        },
+        {
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_6.png",
+          "title": "羊毛系列",
+          "itemId": "2000001"
+        }
+      ]
+      }]
+    },
+    {
+      "firstCateName": "私人订制",
+      "firstCateId": "0000001",
+      "secondCateItems": [{
+        "secondCateName": "丝巾",
+        "secondCateId": "1000001",
+        "items": [{
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_1.png",
+          "title": "真丝绒系列",
+          "itemId": "2000001"
+        },
+        {
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_2.png",
+          "title": "时尚方巾",
+          "itemId": "2000001"
+        },
+        {
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_3.png",
+          "title": "真丝长巾",
+          "itemId": "2000001"
+        },
+        {
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_4.png",
+          "title": "时尚披肩",
+          "itemId": "2000001"
+        },
+        {
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_5.png",
+          "title": "真丝刺绣系列",
+          "itemId": "2000001"
+        },
+        {
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_6.png",
+          "title": "羊毛系列",
+          "itemId": "2000001"
+        }
+      ]
+      }]
+    }
+  ]
+}
